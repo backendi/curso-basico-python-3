@@ -7,7 +7,7 @@ Este curso está orientado a principiantes en programación Python 3.
 3. Solución: Descargar e instalar Python, validar que herramientas complementarias funcionan adecuadamente.
 4. Tarea: Instalar Python en el equipo personal.
 ## Metodología del curso
-- El curso es llevado de forma secuencial, requiriendose entender los temas anteriores para continuar con el resto de temas. De esta manera, cada nuevo concepto aprendido es integrado a los conceptos anteriores.
+- El curso es llevado de forma secuencial. Se requiere entender los temas anteriores para continuar con el resto de temas. De esta manera, cada nuevo concepto aprendido es integrado a los conceptos anteriores.
 - Las clases estarán disponibles en una plataforma de videos (YouTube); además, el código utilizado será guardado en el respositorio actual.
 ## Metodología de clase
 1. Problema: Se propone un problema a resolver, para saber por qué se debería ver la clase actual.
